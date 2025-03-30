@@ -3,7 +3,7 @@ import java.util.ArrayList;
 import java.util.Collections;
 
 /* - A classe ArrayList é redimensionável, enquanto um array padrão não, então não podemos adicionar ou
-remover itens de um array comum;
+remover itens de um  array comum;
 * - Para usá-la, devemos importar a classe util.ArrayList
 * */
 
